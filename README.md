@@ -9,6 +9,7 @@
 </head>
 
 <body class="defaultSettings">
+    
 
     <div id="header">
         <div class="link-left">
@@ -33,6 +34,7 @@
                 <input type="submit" value="进入php网页" class="button">
             </form>
         </div>
+    </div>
 
 </body>
 
