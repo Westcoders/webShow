@@ -9,7 +9,6 @@
 </head>
 
 <body class="defaultSettings">
-    
 
     <div id="header">
         <div class="link-left">
@@ -35,7 +34,6 @@
             </form>
         </div>
     </div>
-
 </body>
 
 </html>
