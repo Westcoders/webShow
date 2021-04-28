@@ -7,7 +7,7 @@
       :defaultCheckeds="groupCheckeds"
     ></img-check-group>
     <br />
-    <*--<button-group>
+    <!--<button-group>
       <button-option size="small"></button-option>
       <button-option name="点我" :isAllowed="false"></button-option>
       <button-option size="Middle" icon="search"></button-option>
