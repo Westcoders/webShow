@@ -7,21 +7,25 @@
       :defaultCheckeds="groupCheckeds"
     ></img-check-group>
     <br />
-    <!--<button-group>
+    <button-group>
       <button-option size="small"></button-option>
       <button-option name="点我" :isAllowed="false"></button-option>
       <button-option size="Middle" icon="search"></button-option>
     </button-group>
-    <br />-->
+    <br />
   </div>
 </template>
 
 <script>
 import ImgCheckGroup from "./ImgCheckGroup.vue";
+import buttonGroup from "./ButtonGroup.vue";
+import buttonOption from "./ButtonOption.vue";
 export default {
   name: "TestBox",
   components: {
     ImgCheckGroup,
+    buttonGroup,
+    buttonOption,
    },
   data() {
     return {
